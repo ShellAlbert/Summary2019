@@ -1,0 +1,11 @@
+1.在Windows下安装Git Bash来模拟Linux下的Shell环境；
+2.cd d:/ 
+3.mkdir github
+4.git clone https://github.com/ShellAlbert/Summary2019.git
+5.cd Summary2019
+6.do operating,modify files,add new files,delete files,etc.
+7.git add --all
+8.git commit --all
+9.git push origin master
+
+2019/12/20 zhangshaoyan
